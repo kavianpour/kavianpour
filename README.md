@@ -66,23 +66,11 @@ I'm an **AI Solutions Architect and researcher** with a Ph.D. in Electrical Engi
 |------|-------|---------|
 | 2025 | [Knowledge Distillation and Enhanced Subdomain Adaptation Using GCN for Resource-Constrained Fault Diagnosis](https://www.sciencedirect.com/science/article/pii/S0950705125012924) | *Knowledge-Based Systems, Elsevier* |
 | 2025 | [A Partial-Imbalance Robust Domain Adaptation Framework for Bearing Fault Diagnosis](https://www.sciencedirect.com/science/article/pii/S0263224125022493) | *Measurement, Elsevier* |
-| 2023 | [A CNN-BILSTM Model with Attention Mechanism for Earthquake Prediction](https://doi.org/10.1007/s11227-023-05423-7) ⭐ 150+ citations | *The Journal of Supercomputing, Springer* |
-| 2023 | [Spatial GCN via Structured Sub-domain Adaptation for Bearing Fault Diagnosis](https://doi.org/10.1016/j.neucom.2023.126485) | *Neurocomputing, Elsevier* |
+| 2023 | [A CNN-BILSTM Model with Attention Mechanism for Earthquake Prediction](https://doi.org/10.1007/s11227-023-05423-7) ⭐ 200+ citations | *The Journal of Supercomputing, Springer* |
+| 2023 | [Spatial GCN via Structured Sub-domain Adaptation for Bearing Fault Diagnosis](https://doi.org/10.1016/j.neucom.2023.126485) ⭐ 140+ citations | *Neurocomputing, Elsevier* |
 | 2022 | [Class Alignment Method Based on GCN for Bearing Fault Diagnosis](https://doi.org/10.1016/j.measurement.2022.111817) | *Measurement, Elsevier* |
 
 📚 Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=FwS-5c0AAAAJ)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mohammadreza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavianpour&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavianpour&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
